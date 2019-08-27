@@ -117,7 +117,7 @@ kuntul
 kentel
 kintil
 kutilmu
-burungkutilang
+@
 defacer
 phising
 ddosattack
